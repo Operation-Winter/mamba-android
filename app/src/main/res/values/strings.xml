@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Mamba</string>
+    <string name="landing_item_background_image">Landing Item Background Image</string>
+    <string name="landing_item_retro_host">HOST RETRO</string>
+    <string name="landing_item_retro_join">JOIN RETRO</string>
+    <string name="landing_item_planning_host">HOST PLANNING</string>
+    <string name="landing_item_planning_join">JOIN PLANNING</string>
 </resources>
